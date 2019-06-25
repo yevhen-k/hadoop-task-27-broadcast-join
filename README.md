@@ -2,7 +2,7 @@
 
 ## Task
 
-User Hadoop Broadcast Join to join two datasets available (here)[https://dumps.wikimedia.org/other/clickstream/]
+User Hadoop Broadcast Join to join two datasets available [here](https://dumps.wikimedia.org/other/clickstream/)
 
 For the first month get 1000 most popular pages.
 
