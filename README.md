@@ -2,7 +2,7 @@
 
 ## Task
 
-User Hadoop Broadcast Join to join two datasets available [here](https://dumps.wikimedia.org/other/clickstream/)
+Use Hadoop Broadcast Join to join two datasets available [here](https://dumps.wikimedia.org/other/clickstream/)
 
 For the first month get 1000 most popular pages.
 
@@ -32,7 +32,7 @@ For the second one make join with 1000 most popular pages of the first month.
 
 ### Step 1
 
-Compile .jar for mapreduce data from firs month:
+Compile .jar for mapreduce data for firs month:
 
 `$ javac -cp ~/hadoop-3.1.2/share/hadoop/client/*:~/hadoop-3.1.2/share/hadoop/common/* BroadcastJoinTop1000MapRed.java`
 
